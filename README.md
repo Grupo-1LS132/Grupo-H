@@ -2,6 +2,7 @@
 Repositorio del Grupo H
 
 ---
+**Coordinador:** Noely Pinzón
 
 ## Clonar-Repositorio
 
